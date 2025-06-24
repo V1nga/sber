@@ -4,6 +4,10 @@
   <groupId>ru.v1nga</groupId>
   <artifactId>sber</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
   <name>Archetype - sber</name>
   <url>http://maven.apache.org</url>
+  <modules>
+    <module>unit-0</module>
+  </modules>
 </project>
