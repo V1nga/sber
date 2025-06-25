@@ -6,7 +6,7 @@
         <artifactId>sber</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>unit-0</artifactId>
+    <artifactId>unit-1</artifactId>
     <name>Archetype - unit-0</name>
     <url>http://maven.apache.org</url>
 </project>
