@@ -8,6 +8,6 @@
   <name>Archetype - sber</name>
   <url>http://maven.apache.org</url>
   <modules>
-    <module>unit-0</module>
+    <module>unit-1</module>
   </modules>
 </project>
