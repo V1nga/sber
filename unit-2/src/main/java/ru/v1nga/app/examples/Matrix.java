@@ -9,12 +9,12 @@ public class Matrix {
     public Matrix(int rows, int cols) {
         this.rows = rows;
         this.cols = cols;
-        data = new int[rows][cols];
+        this.data = new int[rows][cols];
     }
 
     public void setValue(int i, int j, int value) {
         if (i >= 0 && i < rows && j >= 0 && j < cols) {
-            data[i][j] = value;
+            this.data[i][j] = value;
         } else {
             System.out.println("Индекс вне границ матрицы");
         }
