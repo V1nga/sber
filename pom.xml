@@ -10,5 +10,6 @@
   <modules>
     <module>unit-1</module>
     <module>unit-0</module>
+    <module>unit-2</module>
   </modules>
 </project>
