@@ -9,5 +9,6 @@
   <url>http://maven.apache.org</url>
   <modules>
     <module>unit-1</module>
+    <module>unit-0</module>
   </modules>
 </project>

@@ -1,5 +1,5 @@
 <archetype>
-  <id>unit-1</id>
+  <id>unit-0</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
