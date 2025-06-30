@@ -13,5 +13,6 @@
     <module>unit-2</module>
       <module>unit-3</module>
       <module>unit-4</module>
+      <module>unit-5</module>
   </modules>
 </project>
