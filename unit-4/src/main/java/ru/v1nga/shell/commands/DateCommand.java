@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 public class DateCommand implements Command {
 
     @Override
-    public void execute() {
+    public void execute(String[] args) {
         System.out.println(LocalDate.now().format(DateTimeFormatter.ofPattern("dd.MM.yyyy")));
     }
 

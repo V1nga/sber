@@ -8,7 +8,7 @@ import java.time.format.DateTimeFormatter;
 public class TimeCommand implements Command {
 
     @Override
-    public void execute() {
+    public void execute(String[] args) {
         System.out.println(LocalTime.now().format(DateTimeFormatter.ofPattern("HH:mm:ss")));
     }
 

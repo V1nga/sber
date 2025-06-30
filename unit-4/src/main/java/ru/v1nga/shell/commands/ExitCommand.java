@@ -5,7 +5,7 @@ import ru.v1nga.shell.Command;
 public class ExitCommand implements Command {
 
     @Override
-    public void execute() {
+    public void execute(String[] args) {
         System.out.println("Выход из программы...");
         System.exit(0);
     }
