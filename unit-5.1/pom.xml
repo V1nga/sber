@@ -6,7 +6,16 @@
         <artifactId>sber</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>unit-5</artifactId>
-    <name>Archetype - unit-5</name>
+    <artifactId>unit-5.1</artifactId>
+    <name>Archetype - unit-5.1</name>
     <url>http://maven.apache.org</url>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 </project>
